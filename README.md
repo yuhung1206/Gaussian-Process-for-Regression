@@ -49,7 +49,7 @@ is equal to ![image](https://user-images.githubusercontent.com/78803926/13249283
     
   ## Best Combination for given dataset - ARD
    - **automatic relevance determination (ARD)**  
-   ![image](https://user-images.githubusercontent.com/78803926/132499512-4c12907f-360f-43f6-869d-872a45c430e2.png)  
+   ![image](https://user-images.githubusercontent.com/78803926/132517015-74a2f1ba-bf95-44d4-875c-c24f1b81ecbf.png)
    
 
       
