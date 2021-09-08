@@ -1,5 +1,5 @@
 # Gaussian-Process-for-Regression
- - Implementation of **Guassion Process (GP)** for regreesion with the **exponential-quadratic kernel** function.
+ - Implementation of **Gaussian Process (GP)** for regreesion with the **exponential-quadratic kernel** function.
  - We have 100 pairs of samples (x,t) in 'gp.mat' for training & testing.  
    Consider the 60% as traing data, 40% as testing.  
  - Given that the input x is limited in [0,2], predict the target t using GP.
